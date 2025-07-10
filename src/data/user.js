@@ -7,12 +7,8 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
 		github: "https://github.com/NavyaGottipati",
 		linkedin: "https://linkedin.com/in/gnavya15/",
-		instagram: "https://instagram.com/navyaaa_15_/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
