@@ -36,7 +36,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Dell Technologies</div>
 							<div className="work-subtitle">
-								Senior Python Developer
+								Python Developer
 							</div>
 							<div className="work-duration">
 								Sep 2021 – Oct 2023
