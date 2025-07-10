@@ -1,82 +1,78 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Navya",
+		name: "Navya Gottipati",
+		email: "navyagottipati15@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		github: "https://github.com/NavyaGottipati",
+		linkedin: "https://linkedin.com/in/gnavya15/",
+		instagram: "https://instagram.com/navyaaa_15_/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Senior Python Developer | Real-Time Data Engineer | Cloud Enthusiast",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I’m a backend and data pipeline engineer with 7+ years of experience architecting scalable, real-time systems using Python, Kafka, Spark, and cloud technologies like AWS and GCP. I specialize in automating workflows, building microservices, and delivering insight-driven solutions for enterprise clients.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I'm Navya Gottipati. I live in Virginia, where I build intelligent backend systems for real-time analytics.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I have built data pipelines, predictive analytics platforms, and IoT systems for companies like The Home Depot, Dell, and Honeywell. My expertise lies in Python, Kafka, Spark, FastAPI, and deploying scalable applications on AWS/GCP with Docker and Kubernetes. I'm passionate about creating systems that handle big data, support automation, and enhance business decision-making. I'm also comfortable working across Agile teams, collaborating with data scientists, and implementing ML-powered services.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Exploring real-time data engineering, backend development, and Python ecosystems.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Insights and technical breakdowns of building resilient data pipelines, streaming systems, and scalable backend architectures.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Intelligent Inventory & Supply Chain Analytics Platform",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed a real-time inventory monitoring platform at The Home Depot using Python, Kafka, Spark Streaming, and AWS. Delivered APIs and dashboards to track shipments, forecast demand, and prevent stockouts across stores and distribution centers.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NavyaGottipati",
 		},
-
 		{
-			title: "Project 3",
+			title: "Enterprise Infrastructure Monitoring Platform",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"At Dell, built a predictive analytics system using Flink, Kafka, Elasticsearch, and FastAPI to detect anomalies in data center operations and forecast failures. Created dashboards with Grafana/Kibana and integrated ML for anomaly detection.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/NavyaGottipati",
+		},
+		{
+			title: "Industrial IoT Predictive Maintenance Platform",
+			description:
+				"Designed microservices and Spark pipelines for Honeywell's IoT platform that processed telemetry data from industrial equipment. Used TensorFlow for failure prediction and Streamlit for real-time monitoring dashboards.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/NavyaGottipati",
+		},
+		{
+			title: "IT Infrastructure Automation & Reporting System",
+			description:
+				"Built internal Python tools at Accel Frontline to automate asset tracking, log audits, and network monitoring. Created reporting APIs and dashboards using Flask, Dash, and Plotly.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NavyaGottipati",
 		},
-
 		{
-			title: "Project 4",
+			title: "ML-Powered Alerting & Health Scoring System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Integrated ML models using Scikit-learn and TensorFlow into production pipelines to score health of systems and send proactive alerts. Used Redis, Celery, and GCP for scheduling and deployment.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NavyaGottipati",
 		},
 	],
 };
